@@ -8,8 +8,8 @@ Alter is a premium prompt engineering workstation for AI image generation. Manag
 
 | Platform | Download |
 |----------|----------|
-| **macOS** (Apple Silicon) | [Alter-6.0.0-arm64.dmg](https://github.com/ledocsoff/alter/releases/latest) |
-| **Windows** (x64) | [Alter-Setup-6.0.0.exe](https://github.com/ledocsoff/alter/releases/latest) |
+| **macOS** (Apple Silicon) | [Alter-6.0.0-arm64.dmg](https://github.com/ledocsoff/alter/releases/download/v6.0.0/Alter-6.0.0-arm64.dmg) |
+| **Windows** (x64) | [Alter-Setup-6.0.0.exe](https://github.com/ledocsoff/alter/releases/download/v6.0.0/Alter-Setup-6.0.0.exe) |
 
 ### 🍏 macOS Installation Guide (Important)
 Since Alter is downloaded from GitHub and is not signed by a paid Apple Developer certificate, macOS enforces strict security rules (Gatekeeper and App Translocation). To ensure the app can save your generation data and automatically update itself, please follow these exact steps:
